@@ -1,0 +1,51 @@
+{
+  "UnitNumber": "",
+  "HouseNumber": "9",
+  "StreetName": "ABARTH",
+  "StreetType": "Street",
+  "StreetSuffix": "",
+  "Suburb": "CHERMSIDE",
+  "Postcode": "4032",
+  "AddressUseType": "Uprn (Official Location)",
+  "WardName": "MARCHANT",
+  "PropertyDescription": "L.6 RP.118611 PAR KEDRON",
+  "LastSearch": "2018-11-21T11:38:39.4831407+10:00",
+  "LastSearchSuccess": false,
+  "TryCount": 1,
+  "RealEstateRecords": null,
+  "DomainRecords": [
+    {
+      "Action": "Sale",
+      "Date": "7/14/2015 12:00:00 AM",
+      "Value": "0",
+      "Agent": "Madeleine Hicks Real Estate"
+    },
+    {
+      "Action": "Sale",
+      "Date": "12/2/1983 12:00:00 AM",
+      "Value": "85000",
+      "Agent": null
+    }
+  ],
+  "RealEstateInvalidAddress": false,
+  "DomainInvalidAddress": false,
+  "RealEstateLandSize": null,
+  "RealEstateFloorSize": null,
+  "RealEstateYearBuilt": null,
+  "RealEstateBedroom": null,
+  "RealEstateBathroom": null,
+  "RealEstateParking": null,
+  "RealEstateValueRange": null,
+  "DomainPropertyStory": null,
+  "DomainBedroom": "3",
+  "DomainBathroom": "1",
+  "DomainParking": "2",
+  "DomainLowValue": "545000",
+  "DomainMidValue": "630000",
+  "DomainHighValue": "715000",
+  "Searching": false,
+  "SearchingStartDate": "0001-01-01T00:00:00",
+  "ClientName": "LAPTOP-QN9BFJ4V",
+  "_key": "9-abarth-street-chermside-4032",
+  "_id": null
+}

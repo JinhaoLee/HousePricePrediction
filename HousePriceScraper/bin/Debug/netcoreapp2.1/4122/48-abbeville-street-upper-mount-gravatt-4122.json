@@ -1,0 +1,69 @@
+{
+  "UnitNumber": "",
+  "HouseNumber": "48",
+  "StreetName": "ABBEVILLE",
+  "StreetType": "Street",
+  "StreetSuffix": "",
+  "Suburb": "UPPER MOUNT GRAVATT",
+  "Postcode": "4122",
+  "AddressUseType": "Uprn (Official Location)",
+  "WardName": "MACGREGOR",
+  "PropertyDescription": "L.582 RP.86161 PAR BULIMBA",
+  "LastSearch": "2018-11-21T11:38:52.9153165+10:00",
+  "LastSearchSuccess": false,
+  "TryCount": 1,
+  "RealEstateRecords": null,
+  "DomainRecords": [
+    {
+      "Action": "Sale",
+      "Date": "2/17/2018 12:00:00 AM",
+      "Value": "1248000",
+      "Agent": "Team Solomon Estate agents"
+    },
+    {
+      "Action": "Sale",
+      "Date": "8/27/2012 12:00:00 AM",
+      "Value": "575000",
+      "Agent": null
+    },
+    {
+      "Action": "Sale",
+      "Date": "5/8/2010 12:00:00 AM",
+      "Value": "639999",
+      "Agent": "RW Mount Gravatt"
+    },
+    {
+      "Action": "Rental",
+      "Date": "11/30/2008 12:00:00 AM",
+      "Value": "480",
+      "Agent": "RW Mount Gravatt"
+    },
+    {
+      "Action": "Sale",
+      "Date": "12/10/1973 12:00:00 AM",
+      "Value": "22500",
+      "Agent": null
+    }
+  ],
+  "RealEstateInvalidAddress": false,
+  "DomainInvalidAddress": false,
+  "RealEstateLandSize": null,
+  "RealEstateFloorSize": null,
+  "RealEstateYearBuilt": null,
+  "RealEstateBedroom": null,
+  "RealEstateBathroom": null,
+  "RealEstateParking": null,
+  "RealEstateValueRange": null,
+  "DomainPropertyStory": null,
+  "DomainBedroom": "5",
+  "DomainBathroom": "3",
+  "DomainParking": "4",
+  "DomainLowValue": "0",
+  "DomainMidValue": "0",
+  "DomainHighValue": "0",
+  "Searching": false,
+  "SearchingStartDate": "0001-01-01T00:00:00",
+  "ClientName": "LAPTOP-QN9BFJ4V",
+  "_key": "48-abbeville-street-upper-mount-gravatt-4122",
+  "_id": null
+}

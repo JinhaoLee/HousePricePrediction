@@ -1,0 +1,25 @@
+<!--The content below is only a placeholder and can be replaced.-->
+<div class="input">
+  <div>
+    <label>Bedrooms</label>
+    <input type="number" name="NumberOfBedrooms" [(ngModel)]="NumberOfBedrooms"/>
+  </div>
+  <div>
+      <label>Bathrooms</label>
+      <input type="number" name="NumberOfBathrooms" [(ngModel)]="NumberOfBathrooms"/>
+  </div>
+  <div>
+      <label>Parkings</label>
+      <input type="number" name="NumberOfParkings" [(ngModel)]="NumberOfParkings"/>
+  </div>
+  <div>
+      <label>{{Latitude}} {{Longitude}}</label>
+  </div>
+  <button (click)="onPredict()">Predict</button>
+  <div>
+    <label>{{Price}}</label>
+  </div>
+</div>
+<div google-map (MapInit)="onMapInit($event)" [Lat]="initLat" [Lng]="initLng" [Zoom]="initZoom">
+
+</div>

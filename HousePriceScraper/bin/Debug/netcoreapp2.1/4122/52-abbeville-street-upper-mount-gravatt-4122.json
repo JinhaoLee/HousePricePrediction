@@ -1,0 +1,69 @@
+{
+  "UnitNumber": "",
+  "HouseNumber": "52",
+  "StreetName": "ABBEVILLE",
+  "StreetType": "Street",
+  "StreetSuffix": "",
+  "Suburb": "UPPER MOUNT GRAVATT",
+  "Postcode": "4122",
+  "AddressUseType": "Uprn (Official Location)",
+  "WardName": "MACGREGOR",
+  "PropertyDescription": "L.598 RP.86161 PAR BULIMBA",
+  "LastSearch": "2018-11-21T11:38:53.7192785+10:00",
+  "LastSearchSuccess": false,
+  "TryCount": 1,
+  "RealEstateRecords": null,
+  "DomainRecords": [
+    {
+      "Action": "Sale",
+      "Date": "9/3/2013 12:00:00 AM",
+      "Value": "455000",
+      "Agent": null
+    },
+    {
+      "Action": "Rental",
+      "Date": "10/3/2012 12:00:00 AM",
+      "Value": "345",
+      "Agent": "Brad Bell Real Estate"
+    },
+    {
+      "Action": "Sale",
+      "Date": "9/4/2012 12:00:00 AM",
+      "Value": "439000",
+      "Agent": "Brad Bell Real Estate"
+    },
+    {
+      "Action": "Sale",
+      "Date": "11/2/2003 12:00:00 AM",
+      "Value": "297500",
+      "Agent": null
+    },
+    {
+      "Action": "Sale",
+      "Date": "2/28/2003 12:00:00 AM",
+      "Value": "215000",
+      "Agent": null
+    }
+  ],
+  "RealEstateInvalidAddress": false,
+  "DomainInvalidAddress": false,
+  "RealEstateLandSize": null,
+  "RealEstateFloorSize": null,
+  "RealEstateYearBuilt": null,
+  "RealEstateBedroom": null,
+  "RealEstateBathroom": null,
+  "RealEstateParking": null,
+  "RealEstateValueRange": null,
+  "DomainPropertyStory": null,
+  "DomainBedroom": "3",
+  "DomainBathroom": "1",
+  "DomainParking": "2",
+  "DomainLowValue": "520000",
+  "DomainMidValue": "600000",
+  "DomainHighValue": "680000",
+  "Searching": false,
+  "SearchingStartDate": "0001-01-01T00:00:00",
+  "ClientName": "LAPTOP-QN9BFJ4V",
+  "_key": "52-abbeville-street-upper-mount-gravatt-4122",
+  "_id": null
+}

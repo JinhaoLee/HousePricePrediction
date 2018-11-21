@@ -1,0 +1,57 @@
+{
+  "UnitNumber": "",
+  "HouseNumber": "2",
+  "StreetName": "ABBEVILLE",
+  "StreetType": "Street",
+  "StreetSuffix": "",
+  "Suburb": "UPPER MOUNT GRAVATT",
+  "Postcode": "4122",
+  "AddressUseType": "Uprn (Official Location)",
+  "WardName": "MACGREGOR",
+  "PropertyDescription": "L.44 RP.87380 PAR BULIMBA",
+  "LastSearch": "2018-11-21T11:38:40.6923647+10:00",
+  "LastSearchSuccess": false,
+  "TryCount": 1,
+  "RealEstateRecords": null,
+  "DomainRecords": [
+    {
+      "Action": "Sale",
+      "Date": "12/11/2004 12:00:00 AM",
+      "Value": "300000",
+      "Agent": "PRDNationwide Mansfield"
+    },
+    {
+      "Action": "Sale",
+      "Date": "2/27/2002 12:00:00 AM",
+      "Value": "208000",
+      "Agent": null
+    },
+    {
+      "Action": "Sale",
+      "Date": "7/1/2000 12:00:00 AM",
+      "Value": "152000",
+      "Agent": null
+    }
+  ],
+  "RealEstateInvalidAddress": false,
+  "DomainInvalidAddress": false,
+  "RealEstateLandSize": null,
+  "RealEstateFloorSize": null,
+  "RealEstateYearBuilt": null,
+  "RealEstateBedroom": null,
+  "RealEstateBathroom": null,
+  "RealEstateParking": null,
+  "RealEstateValueRange": null,
+  "DomainPropertyStory": null,
+  "DomainBedroom": "3",
+  "DomainBathroom": "0",
+  "DomainParking": "0",
+  "DomainLowValue": "520000",
+  "DomainMidValue": "600000",
+  "DomainHighValue": "680000",
+  "Searching": false,
+  "SearchingStartDate": "0001-01-01T00:00:00",
+  "ClientName": "LAPTOP-QN9BFJ4V",
+  "_key": "2-abbeville-street-upper-mount-gravatt-4122",
+  "_id": null
+}

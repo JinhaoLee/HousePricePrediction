@@ -1,0 +1,81 @@
+{
+  "UnitNumber": "",
+  "HouseNumber": "33",
+  "StreetName": "AARON",
+  "StreetType": "Avenue",
+  "StreetSuffix": "",
+  "Suburb": "HAWTHORNE",
+  "Postcode": "4171",
+  "AddressUseType": "Uprn (Official Location)",
+  "WardName": "MORNINGSIDE",
+  "PropertyDescription": "L.6 RP.55905 PAR BULIMBA",
+  "LastSearch": "2018-11-21T11:38:37.7407042+10:00",
+  "LastSearchSuccess": false,
+  "TryCount": 1,
+  "RealEstateRecords": null,
+  "DomainRecords": [
+    {
+      "Action": "Sale",
+      "Date": "9/30/2017 12:00:00 AM",
+      "Value": "2120000",
+      "Agent": "RW Bulimba"
+    },
+    {
+      "Action": "Sale",
+      "Date": "3/20/2014 12:00:00 AM",
+      "Value": "2125000",
+      "Agent": "Place Estate Agents - Bulimba"
+    },
+    {
+      "Action": "Sale",
+      "Date": "5/29/2011 12:00:00 AM",
+      "Value": "0",
+      "Agent": "RW Bulimba Lanya"
+    },
+    {
+      "Action": "Sale",
+      "Date": "11/27/2009 12:00:00 AM",
+      "Value": "0",
+      "Agent": "Place Estate Agents - Bulimba"
+    },
+    {
+      "Action": "Rental",
+      "Date": "4/22/2009 12:00:00 AM",
+      "Value": "1750",
+      "Agent": "Place Estate Agents - Bulimba"
+    },
+    {
+      "Action": "Sale",
+      "Date": "6/23/2007 12:00:00 AM",
+      "Value": "1900000",
+      "Agent": "Place Estate Agents Aspley"
+    },
+    {
+      "Action": "Sale",
+      "Date": "5/30/2002 12:00:00 AM",
+      "Value": "615000",
+      "Agent": null
+    }
+  ],
+  "RealEstateInvalidAddress": false,
+  "DomainInvalidAddress": false,
+  "RealEstateLandSize": null,
+  "RealEstateFloorSize": null,
+  "RealEstateYearBuilt": null,
+  "RealEstateBedroom": null,
+  "RealEstateBathroom": null,
+  "RealEstateParking": null,
+  "RealEstateValueRange": null,
+  "DomainPropertyStory": null,
+  "DomainBedroom": "5",
+  "DomainBathroom": "3",
+  "DomainParking": "4",
+  "DomainLowValue": "0",
+  "DomainMidValue": "0",
+  "DomainHighValue": "0",
+  "Searching": false,
+  "SearchingStartDate": "0001-01-01T00:00:00",
+  "ClientName": "LAPTOP-QN9BFJ4V",
+  "_key": "33-aaron-avenue-hawthorne-4171",
+  "_id": null
+}

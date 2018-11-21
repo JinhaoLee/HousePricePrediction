@@ -1,0 +1,51 @@
+{
+  "UnitNumber": "",
+  "HouseNumber": "44",
+  "StreetName": "ABBEVILLE",
+  "StreetType": "Street",
+  "StreetSuffix": "",
+  "Suburb": "UPPER MOUNT GRAVATT",
+  "Postcode": "4122",
+  "AddressUseType": "Uprn (Official Location)",
+  "WardName": "MACGREGOR",
+  "PropertyDescription": "L.583 RP.86161 PAR BULIMBA",
+  "LastSearch": "2018-11-21T11:38:51.3602522+10:00",
+  "LastSearchSuccess": false,
+  "TryCount": 1,
+  "RealEstateRecords": null,
+  "DomainRecords": [
+    {
+      "Action": "Rental",
+      "Date": "1/10/2012 12:00:00 AM",
+      "Value": "360",
+      "Agent": "Bill Hooper Real Estate"
+    },
+    {
+      "Action": "Rental",
+      "Date": "7/16/2009 12:00:00 AM",
+      "Value": "340",
+      "Agent": "Raine & Horne Upper Mt Gravatt"
+    }
+  ],
+  "RealEstateInvalidAddress": false,
+  "DomainInvalidAddress": false,
+  "RealEstateLandSize": null,
+  "RealEstateFloorSize": null,
+  "RealEstateYearBuilt": null,
+  "RealEstateBedroom": null,
+  "RealEstateBathroom": null,
+  "RealEstateParking": null,
+  "RealEstateValueRange": null,
+  "DomainPropertyStory": null,
+  "DomainBedroom": "3",
+  "DomainBathroom": "1",
+  "DomainParking": "1",
+  "DomainLowValue": "470000",
+  "DomainMidValue": "545000",
+  "DomainHighValue": "620000",
+  "Searching": false,
+  "SearchingStartDate": "0001-01-01T00:00:00",
+  "ClientName": "LAPTOP-QN9BFJ4V",
+  "_key": "44-abbeville-street-upper-mount-gravatt-4122",
+  "_id": null
+}

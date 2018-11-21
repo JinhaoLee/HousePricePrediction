@@ -1,0 +1,51 @@
+{
+  "UnitNumber": "",
+  "HouseNumber": "6",
+  "StreetName": "ABBEVILLE",
+  "StreetType": "Street",
+  "StreetSuffix": "",
+  "Suburb": "UPPER MOUNT GRAVATT",
+  "Postcode": "4122",
+  "AddressUseType": "Uprn (Official Location)",
+  "WardName": "MACGREGOR",
+  "PropertyDescription": "L.45 RP.87380 PAR BULIMBA",
+  "LastSearch": "2018-11-21T11:38:43.178252+10:00",
+  "LastSearchSuccess": false,
+  "TryCount": 1,
+  "RealEstateRecords": null,
+  "DomainRecords": [
+    {
+      "Action": "Sale",
+      "Date": "4/9/2016 12:00:00 AM",
+      "Value": "552000",
+      "Agent": "Place Coorparoo"
+    },
+    {
+      "Action": "Sale",
+      "Date": "9/25/1987 12:00:00 AM",
+      "Value": "73000",
+      "Agent": null
+    }
+  ],
+  "RealEstateInvalidAddress": false,
+  "DomainInvalidAddress": false,
+  "RealEstateLandSize": null,
+  "RealEstateFloorSize": null,
+  "RealEstateYearBuilt": null,
+  "RealEstateBedroom": null,
+  "RealEstateBathroom": null,
+  "RealEstateParking": null,
+  "RealEstateValueRange": null,
+  "DomainPropertyStory": null,
+  "DomainBedroom": "3",
+  "DomainBathroom": "1",
+  "DomainParking": "2",
+  "DomainLowValue": "520000",
+  "DomainMidValue": "600000",
+  "DomainHighValue": "680000",
+  "Searching": false,
+  "SearchingStartDate": "0001-01-01T00:00:00",
+  "ClientName": "LAPTOP-QN9BFJ4V",
+  "_key": "6-abbeville-street-upper-mount-gravatt-4122",
+  "_id": null
+}

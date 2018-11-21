@@ -1,0 +1,51 @@
+{
+  "UnitNumber": "",
+  "HouseNumber": "28",
+  "StreetName": "AARON",
+  "StreetType": "Avenue",
+  "StreetSuffix": "",
+  "Suburb": "HAWTHORNE",
+  "Postcode": "4171",
+  "AddressUseType": "Uprn (Official Location)",
+  "WardName": "MORNINGSIDE",
+  "PropertyDescription": "L.2 RP.87085 PAR BULIMBA",
+  "LastSearch": "2018-11-21T11:38:36.7157934+10:00",
+  "LastSearchSuccess": false,
+  "TryCount": 1,
+  "RealEstateRecords": null,
+  "DomainRecords": [
+    {
+      "Action": "Sale",
+      "Date": "7/23/2015 12:00:00 AM",
+      "Value": "4650000",
+      "Agent": null
+    },
+    {
+      "Action": "Sale",
+      "Date": "6/9/1980 12:00:00 AM",
+      "Value": "78000",
+      "Agent": null
+    }
+  ],
+  "RealEstateInvalidAddress": false,
+  "DomainInvalidAddress": false,
+  "RealEstateLandSize": null,
+  "RealEstateFloorSize": null,
+  "RealEstateYearBuilt": null,
+  "RealEstateBedroom": null,
+  "RealEstateBathroom": null,
+  "RealEstateParking": null,
+  "RealEstateValueRange": null,
+  "DomainPropertyStory": null,
+  "DomainBedroom": "0",
+  "DomainBathroom": "0",
+  "DomainParking": "0",
+  "DomainLowValue": "0",
+  "DomainMidValue": "0",
+  "DomainHighValue": "0",
+  "Searching": false,
+  "SearchingStartDate": "0001-01-01T00:00:00",
+  "ClientName": "LAPTOP-QN9BFJ4V",
+  "_key": "28-aaron-avenue-hawthorne-4171",
+  "_id": null
+}

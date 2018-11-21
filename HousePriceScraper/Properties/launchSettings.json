@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "HousePriceScraper": {
+      "commandName": "Project",
+      "commandLineArgs": "--csv=C:\\Users\\dick\\Desktop\\20180917000odaddress.csv"
+    }
+  }
+}

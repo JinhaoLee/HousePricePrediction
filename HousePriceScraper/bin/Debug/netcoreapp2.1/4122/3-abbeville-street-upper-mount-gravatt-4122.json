@@ -1,0 +1,63 @@
+{
+  "UnitNumber": "",
+  "HouseNumber": "3",
+  "StreetName": "ABBEVILLE",
+  "StreetType": "Street",
+  "StreetSuffix": "",
+  "Suburb": "UPPER MOUNT GRAVATT",
+  "Postcode": "4122",
+  "AddressUseType": "Uprn (Official Location)",
+  "WardName": "MACGREGOR",
+  "PropertyDescription": "L.42 RP.87380 PAR BULIMBA",
+  "LastSearch": "2018-11-21T11:38:41.6618562+10:00",
+  "LastSearchSuccess": false,
+  "TryCount": 1,
+  "RealEstateRecords": null,
+  "DomainRecords": [
+    {
+      "Action": "Rental",
+      "Date": "4/4/2018 12:00:00 AM",
+      "Value": "0",
+      "Agent": "Arrive"
+    },
+    {
+      "Action": "Sale",
+      "Date": "3/2/2018 12:00:00 AM",
+      "Value": "600000",
+      "Agent": "Brad Bell Real Estate"
+    },
+    {
+      "Action": "Sale",
+      "Date": "2/26/2014 12:00:00 AM",
+      "Value": "485500",
+      "Agent": "Brad Bell Real Estate"
+    },
+    {
+      "Action": "Sale",
+      "Date": "5/10/2006 12:00:00 AM",
+      "Value": "317500",
+      "Agent": null
+    }
+  ],
+  "RealEstateInvalidAddress": false,
+  "DomainInvalidAddress": false,
+  "RealEstateLandSize": null,
+  "RealEstateFloorSize": null,
+  "RealEstateYearBuilt": null,
+  "RealEstateBedroom": null,
+  "RealEstateBathroom": null,
+  "RealEstateParking": null,
+  "RealEstateValueRange": null,
+  "DomainPropertyStory": null,
+  "DomainBedroom": "3",
+  "DomainBathroom": "1",
+  "DomainParking": "2",
+  "DomainLowValue": "520000",
+  "DomainMidValue": "600000",
+  "DomainHighValue": "680000",
+  "Searching": false,
+  "SearchingStartDate": "0001-01-01T00:00:00",
+  "ClientName": "LAPTOP-QN9BFJ4V",
+  "_key": "3-abbeville-street-upper-mount-gravatt-4122",
+  "_id": null
+}

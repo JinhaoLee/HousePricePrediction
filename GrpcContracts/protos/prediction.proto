@@ -1,0 +1,19 @@
+﻿syntax = "proto3";
+package House.Prediction;
+
+message PredictionRequest{
+	int32 NumberOfBedrooms = 1;
+	int32 NumberOfBathrooms = 2;
+	int32 NumberOfParkings = 3;
+	double Latitude = 4;
+	double Longitude = 5;
+}
+
+message PredictionResponse {
+	repeated int32 Indices = 1;
+}
+
+service PredictionService {
+	// Find the indices of nearest houses
+	rpc FindNearestHouseIndices(PredictionRequest) returns (PredictionResponse){}
+}

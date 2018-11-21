@@ -1,0 +1,57 @@
+{
+  "UnitNumber": "",
+  "HouseNumber": "60",
+  "StreetName": "ABBEVILLE",
+  "StreetType": "Street",
+  "StreetSuffix": "",
+  "Suburb": "UPPER MOUNT GRAVATT",
+  "Postcode": "4122",
+  "AddressUseType": "Uprn (Official Location)",
+  "WardName": "MACGREGOR",
+  "PropertyDescription": "L.602 RP.86161 PAR BULIMBA",
+  "LastSearch": "2018-11-21T11:38:55.9463179+10:00",
+  "LastSearchSuccess": false,
+  "TryCount": 1,
+  "RealEstateRecords": null,
+  "DomainRecords": [
+    {
+      "Action": "Sale",
+      "Date": "3/19/2014 12:00:00 AM",
+      "Value": "450000",
+      "Agent": null
+    },
+    {
+      "Action": "Sale",
+      "Date": "5/1/2004 12:00:00 AM",
+      "Value": "390000",
+      "Agent": "PF Gabe Daly"
+    },
+    {
+      "Action": "Sale",
+      "Date": "3/17/1985 12:00:00 AM",
+      "Value": "53500",
+      "Agent": null
+    }
+  ],
+  "RealEstateInvalidAddress": false,
+  "DomainInvalidAddress": false,
+  "RealEstateLandSize": null,
+  "RealEstateFloorSize": null,
+  "RealEstateYearBuilt": null,
+  "RealEstateBedroom": null,
+  "RealEstateBathroom": null,
+  "RealEstateParking": null,
+  "RealEstateValueRange": null,
+  "DomainPropertyStory": null,
+  "DomainBedroom": "4",
+  "DomainBathroom": "0",
+  "DomainParking": "0",
+  "DomainLowValue": "495000",
+  "DomainMidValue": "570000",
+  "DomainHighValue": "645000",
+  "Searching": false,
+  "SearchingStartDate": "0001-01-01T00:00:00",
+  "ClientName": "LAPTOP-QN9BFJ4V",
+  "_key": "60-abbeville-street-upper-mount-gravatt-4122",
+  "_id": null
+}

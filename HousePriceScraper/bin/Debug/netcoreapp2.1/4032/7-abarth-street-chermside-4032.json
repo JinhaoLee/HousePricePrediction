@@ -1,0 +1,51 @@
+{
+  "UnitNumber": "",
+  "HouseNumber": "7",
+  "StreetName": "ABARTH",
+  "StreetType": "Street",
+  "StreetSuffix": "",
+  "Suburb": "CHERMSIDE",
+  "Postcode": "4032",
+  "AddressUseType": "Uprn (Official Location)",
+  "WardName": "MARCHANT",
+  "PropertyDescription": "L.5 RP.118611 PAR KEDRON",
+  "LastSearch": "2018-11-21T11:38:39.0421228+10:00",
+  "LastSearchSuccess": false,
+  "TryCount": 1,
+  "RealEstateRecords": null,
+  "DomainRecords": [
+    {
+      "Action": "Sale",
+      "Date": "6/26/2012 12:00:00 AM",
+      "Value": "515000",
+      "Agent": "Century 21 Online"
+    },
+    {
+      "Action": "Sale",
+      "Date": "6/12/1976 12:00:00 AM",
+      "Value": "51000",
+      "Agent": null
+    }
+  ],
+  "RealEstateInvalidAddress": false,
+  "DomainInvalidAddress": false,
+  "RealEstateLandSize": null,
+  "RealEstateFloorSize": null,
+  "RealEstateYearBuilt": null,
+  "RealEstateBedroom": null,
+  "RealEstateBathroom": null,
+  "RealEstateParking": null,
+  "RealEstateValueRange": null,
+  "DomainPropertyStory": null,
+  "DomainBedroom": "4",
+  "DomainBathroom": "3",
+  "DomainParking": "2",
+  "DomainLowValue": "600000",
+  "DomainMidValue": "695000",
+  "DomainHighValue": "790000",
+  "Searching": false,
+  "SearchingStartDate": "0001-01-01T00:00:00",
+  "ClientName": "LAPTOP-QN9BFJ4V",
+  "_key": "7-abarth-street-chermside-4032",
+  "_id": null
+}

@@ -1,0 +1,63 @@
+{
+  "UnitNumber": "",
+  "HouseNumber": "34",
+  "StreetName": "ABBEVILLE",
+  "StreetType": "Street",
+  "StreetSuffix": "",
+  "Suburb": "UPPER MOUNT GRAVATT",
+  "Postcode": "4122",
+  "AddressUseType": "Uprn (Official Location)",
+  "WardName": "MACGREGOR",
+  "PropertyDescription": "L.586 RP.86161 PAR BULIMBA",
+  "LastSearch": "2018-11-21T11:38:49.2431166+10:00",
+  "LastSearchSuccess": false,
+  "TryCount": 1,
+  "RealEstateRecords": null,
+  "DomainRecords": [
+    {
+      "Action": "Rental",
+      "Date": "1/3/2018 12:00:00 AM",
+      "Value": "385",
+      "Agent": "Ray White Mount Gravatt"
+    },
+    {
+      "Action": "Rental",
+      "Date": "1/18/2017 12:00:00 AM",
+      "Value": "390",
+      "Agent": "RW Mount Gravatt"
+    },
+    {
+      "Action": "Sale",
+      "Date": "3/3/2004 12:00:00 AM",
+      "Value": "325500",
+      "Agent": null
+    },
+    {
+      "Action": "Sale",
+      "Date": "4/19/2002 12:00:00 AM",
+      "Value": "208500",
+      "Agent": null
+    }
+  ],
+  "RealEstateInvalidAddress": false,
+  "DomainInvalidAddress": false,
+  "RealEstateLandSize": null,
+  "RealEstateFloorSize": null,
+  "RealEstateYearBuilt": null,
+  "RealEstateBedroom": null,
+  "RealEstateBathroom": null,
+  "RealEstateParking": null,
+  "RealEstateValueRange": null,
+  "DomainPropertyStory": null,
+  "DomainBedroom": "3",
+  "DomainBathroom": "1",
+  "DomainParking": "2",
+  "DomainLowValue": "520000",
+  "DomainMidValue": "600000",
+  "DomainHighValue": "680000",
+  "Searching": false,
+  "SearchingStartDate": "0001-01-01T00:00:00",
+  "ClientName": "LAPTOP-QN9BFJ4V",
+  "_key": "34-abbeville-street-upper-mount-gravatt-4122",
+  "_id": null
+}

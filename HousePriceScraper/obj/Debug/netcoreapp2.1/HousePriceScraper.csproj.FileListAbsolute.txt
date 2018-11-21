@@ -1,0 +1,11 @@
+C:\Users\dick\Desktop\Machien Learning\HousePriceScraper\HousePriceScraper\bin\Debug\netcoreapp2.1\HousePriceScraper.deps.json
+C:\Users\dick\Desktop\Machien Learning\HousePriceScraper\HousePriceScraper\bin\Debug\netcoreapp2.1\HousePriceScraper.runtimeconfig.json
+C:\Users\dick\Desktop\Machien Learning\HousePriceScraper\HousePriceScraper\bin\Debug\netcoreapp2.1\HousePriceScraper.runtimeconfig.dev.json
+C:\Users\dick\Desktop\Machien Learning\HousePriceScraper\HousePriceScraper\bin\Debug\netcoreapp2.1\HousePriceScraper.dll
+C:\Users\dick\Desktop\Machien Learning\HousePriceScraper\HousePriceScraper\obj\Debug\netcoreapp2.1\HousePriceScraper.csprojAssemblyReference.cache
+C:\Users\dick\Desktop\Machien Learning\HousePriceScraper\HousePriceScraper\obj\Debug\netcoreapp2.1\HousePriceScraper.csproj.CoreCompileInputs.cache
+C:\Users\dick\Desktop\Machien Learning\HousePriceScraper\HousePriceScraper\obj\Debug\netcoreapp2.1\HousePriceScraper.AssemblyInfoInputs.cache
+C:\Users\dick\Desktop\Machien Learning\HousePriceScraper\HousePriceScraper\obj\Debug\netcoreapp2.1\HousePriceScraper.AssemblyInfo.cs
+C:\Users\dick\Desktop\Machien Learning\HousePriceScraper\HousePriceScraper\bin\Debug\netcoreapp2.1\HousePriceScraper.pdb
+C:\Users\dick\Desktop\Machien Learning\HousePriceScraper\HousePriceScraper\obj\Debug\netcoreapp2.1\HousePriceScraper.dll
+C:\Users\dick\Desktop\Machien Learning\HousePriceScraper\HousePriceScraper\obj\Debug\netcoreapp2.1\HousePriceScraper.pdb

@@ -1,0 +1,9 @@
+C:\Users\dick\Desktop\Machien Learning\HousePriceScraper\GrpcContracts\bin\Debug\netcoreapp2.1\GrpcContracts.deps.json
+C:\Users\dick\Desktop\Machien Learning\HousePriceScraper\GrpcContracts\bin\Debug\netcoreapp2.1\GrpcContracts.dll
+C:\Users\dick\Desktop\Machien Learning\HousePriceScraper\GrpcContracts\obj\Debug\netcoreapp2.1\GrpcContracts.csprojAssemblyReference.cache
+C:\Users\dick\Desktop\Machien Learning\HousePriceScraper\GrpcContracts\obj\Debug\netcoreapp2.1\GrpcContracts.csproj.CoreCompileInputs.cache
+C:\Users\dick\Desktop\Machien Learning\HousePriceScraper\GrpcContracts\obj\Debug\netcoreapp2.1\GrpcContracts.AssemblyInfoInputs.cache
+C:\Users\dick\Desktop\Machien Learning\HousePriceScraper\GrpcContracts\obj\Debug\netcoreapp2.1\GrpcContracts.AssemblyInfo.cs
+C:\Users\dick\Desktop\Machien Learning\HousePriceScraper\GrpcContracts\bin\Debug\netcoreapp2.1\GrpcContracts.pdb
+C:\Users\dick\Desktop\Machien Learning\HousePriceScraper\GrpcContracts\obj\Debug\netcoreapp2.1\GrpcContracts.dll
+C:\Users\dick\Desktop\Machien Learning\HousePriceScraper\GrpcContracts\obj\Debug\netcoreapp2.1\GrpcContracts.pdb
